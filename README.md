@@ -1,2 +1,3 @@
 # ansible
-ansible 101
+contains Ansible ad-hoc commands and playbooks 
+## ad-hoc Ansible commands
